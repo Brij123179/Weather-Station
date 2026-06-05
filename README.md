@@ -1,7 +1,10 @@
 # Synent Technologies Web Development Internship - Task 6
 ## API Integration Project (Weather Dashboard)
 
-**Repository Naming Format:** `synent-task6-weatherapp-brij`
+### 🔗 Project Links
+- **GitHub Repository:** [https://github.com/Brij123179/Weather-Station](https://github.com/Brij123179/Weather-Station) *(Note: Rename repository to `synent-task6-weatherapp-brij` for submission)*
+- **Demonstration Video:** *[Insert Video Link Here]*
+- **LinkedIn Post:** *[Insert LinkedIn Post Link Here]*
 
 ### Objective
 Fetch and display data from a public API dynamically, incorporating loading states and error handling.
@@ -65,12 +68,13 @@ The application leverages a modular frontend architecture keeping view logic, st
 *   **Error Handling UI:** `screenshots/error_state.png` - Demonstrates the visual fallback when an API Key is missing or a city is invalid.
 *   **Search History Component:** `screenshots/search_history.png` - Demonstrates local storage saving the last 5 searched cities.
 
-### Submission Requirements checklist
+### ✅ Submission Requirements Checklist
 - [x] Fetch and display data from a public API (Weather API)
 - [x] Use Fetch API in JavaScript
 - [x] Display data dynamically
 - [x] Loading state included
 - [x] Error handling included
-- [x] Minimum 5 meaningful commits (To be done in Git)
-- [ ] Demonstration video link: *[Insert your LinkedIn or YouTube video link here]*
-- [ ] Share on LinkedIn tagging @Synent Technologies with hashtags #internship #webdevelopment #learning #technology
+- [x] Minimum 5 meaningful commits on GitHub
+- [ ] Demonstration video (1-3 minutes, explaining features and working)
+- [ ] Share on LinkedIn tagging @Synent Technologies with hashtags `#internship` `#webdevelopment` `#learning` `#technology`
+- [ ] Submit repository and video links via the provided email
