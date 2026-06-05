@@ -2,9 +2,10 @@
 ## API Integration Project (Weather Dashboard)
 
 ### 🔗 Project Links
+- **Live Demo:** [https://weatherdashwd.netlify.app/](https://weatherdashwd.netlify.app/)
 - **GitHub Repository:** [https://github.com/Brij123179/Weather-Station](https://github.com/Brij123179/Weather-Station) *(Note: Rename repository to `synent-task6-weatherapp-brij` for submission)*
 - **Demonstration Video:** *[Insert Video Link Here]*
-- **LinkedIn Post:** *[Insert LinkedIn Post Link Here]*
+- **LinkedIn Post:** [https://www.linkedin.com/feed/update/urn:li:activity:7468782377180491778/](https://www.linkedin.com/feed/update/urn:li:activity:7468782377180491778/)
 
 ### Objective
 Fetch and display data from a public API dynamically, incorporating loading states and error handling.
@@ -76,5 +77,5 @@ The application leverages a modular frontend architecture keeping view logic, st
 - [x] Error handling included
 - [x] Minimum 5 meaningful commits on GitHub
 - [ ] Demonstration video (1-3 minutes, explaining features and working)
-- [ ] Share on LinkedIn tagging @Synent Technologies with hashtags `#internship` `#webdevelopment` `#learning` `#technology`
+- [x] Share on LinkedIn tagging @Synent Technologies with hashtags `#internship` `#webdevelopment` `#learning` `#technology`
 - [ ] Submit repository and video links via the provided email
